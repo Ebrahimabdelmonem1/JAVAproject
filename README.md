@@ -8,7 +8,7 @@ I have added 2 languages in the project (Arabic and , Germany)  you can add more
 
 
 
-
+#hello from linux terminal
 
 
 
